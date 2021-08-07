@@ -1,5 +1,5 @@
 
-# [App's GitHub Pages site](https://tgrochowski87.github.io/ReactMusicApp/)
+# [App's GitHub Pages site](https://tgrochowski87.github.io/Portfolio/)
 
 ### App created with an online React Course by [Dev Ed](https://www.youtube.com/c/DevEd/featured)
 
